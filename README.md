@@ -4,15 +4,15 @@ TaskFlow API is a simple and clean RESTful API built using Go. It allows you to 
 
 ---
 
-## 📌 Features
+##  Features
 
-- ✅ Create Task  
-- 📋 Get All Tasks  
-- 🔍 Get Task by ID  
-- ✏️ Update Task  
-- ❌ Delete Task  
-- ⚡ Fast and lightweight (Go-powered)  
-- 🧠 In-memory storage (no database required)
+-  Create Task  
+-  Get All Tasks  
+-  Get Task by ID  
+-  Update Task  
+-  Delete Task  
+-  Fast and lightweight (Go-powered)  
+-  In-memory storage (no database required)
 
 ---
 
@@ -24,7 +24,7 @@ TaskFlow API is a simple and clean RESTful API built using Go. It allows you to 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 ```
 taskflow-api/
 │── main.go
@@ -35,7 +35,7 @@ taskflow-api/
 
 ## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the Repository
+### 1️ Clone the Repository
 
 ```
 git clone https://github.com/yourusername/taskflow-api.git
