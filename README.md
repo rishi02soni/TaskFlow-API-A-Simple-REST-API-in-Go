@@ -60,4 +60,14 @@ http://localhost:8080
   "done": true
 }
 ```
+## Future Improvements
+Add JWT Authentication
+-Integrate Database (PostgreSQL / MongoDB)
+-Docker Support
+- Swagger API Documentation
+- Deploy on Cloud (AWS / Azure / Render)
+
+## Support
+
+If you like this project, give it a ⭐ on GitHub!
 
