@@ -1,4 +1,4 @@
-# 🚀 TaskFlow API – REST API in Go
+#  TaskFlow API – REST API in Go
 
 TaskFlow API is a simple and clean RESTful API built using Go. It allows you to manage tasks with full CRUD operations.
 
